@@ -9,6 +9,7 @@
 
 [![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 [![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+[![](https://img.shields.io/badge/NextJS-02569B?style=for-the-badge&logo=nextjs&logoColor=white)](https://img.shields.io/badge/NextJS-02569B?style=for-the-badge&logo=nextjs&logoColor=white)
 
 
 ### Languages and Tools:
